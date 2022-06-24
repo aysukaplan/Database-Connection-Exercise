@@ -1,6 +1,6 @@
 # Database-Connection-Exercise
 ## C# Intermediate: Classes, Interfaces and OOP Udemy Course Exercise 4
--Problem Definiton
+-Problem Definition
 >To access a database, we need to open a connection to it first and close it once our job is done. 
 Connecting to a database depends on the type of the target database and the database 
 management system (DBMS). For example, connecting to a SQL Server database is different 
